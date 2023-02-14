@@ -19,8 +19,7 @@ Para executar o projeto, bastar seguir essas instruções:
 ## Imagens do Projeto
 
 ### Código do projeto:
-<img src="![Código](https://user-images.githubusercontent.com/86933408/218606392-3a22803c-6353-409e-b57b-56c3fd074786.png)
-" />
+<img src="https://user-images.githubusercontent.com/86933408/218606392-3a22803c-6353-409e-b57b-56c3fd074786.png" />
 
 ### Projeto rodando:
-<img src="![Executando](https://user-images.githubusercontent.com/86933408/218606432-cd743f9c-8d8a-4d01-9d8e-07c2eaa45f3d.png)" />
+<img src="https://user-images.githubusercontent.com/86933408/218606432-cd743f9c-8d8a-4d01-9d8e-07c2eaa45f3d.png" />

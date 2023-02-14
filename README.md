@@ -1,8 +1,8 @@
-# Facilitando o dia a dia
+# Projeto individual - Módulo 5 - Sistema Resilia
 
 Este projeto individual, criado no módulo 5, tem como objetivo ajudar desenvolvedores na rotina com CSS, fornecendo uma lista ordenada das propriedades CSS. Ele foi desenvolvido para ser executado no terminal, usando o Node.js.
 
-## Execução do Projeto
+## Como Rodar
 
 Para executar o projeto, bastar seguir essas instruções:
 
@@ -16,10 +16,11 @@ Para executar o projeto, bastar seguir essas instruções:
   <li>A lista com as propriedades salvas será exibida.</li>
 </ul>
 
-## Prints do Projeto
+## Imagens do Projeto
 
-### Código fonte do projeto:
-<img src="" />
+### Código do projeto:
+<img src="![Código](https://user-images.githubusercontent.com/86933408/218606392-3a22803c-6353-409e-b57b-56c3fd074786.png)
+" />
 
-### Projeto sendo executado:
-<img src="" />
+### Projeto rodando:
+<img src="![Executando](https://user-images.githubusercontent.com/86933408/218606432-cd743f9c-8d8a-4d01-9d8e-07c2eaa45f3d.png)" />
